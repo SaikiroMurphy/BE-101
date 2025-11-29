@@ -2,8 +2,6 @@
 CREATE DATABASE LibraryDB;
 
 -- Trong database LibraryDB, tạo schema có tên library
-\c LibraryDB;
-
 CREATE SCHEMA library;
 
 -- Trong schema library, tạo bảng Books
